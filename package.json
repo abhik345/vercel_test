@@ -2,9 +2,11 @@
   "name": "next_pm",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pramodmaloo.com/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next build && next export",
     "start": "next start",
     "lint": "next lint"
   },
